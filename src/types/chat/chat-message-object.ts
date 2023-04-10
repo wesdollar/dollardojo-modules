@@ -5,4 +5,5 @@ export interface ChatMessageObject {
   mod: boolean;
   subscriber: boolean;
   chatCommand: string;
+  emotes: (string | null)[];
 }
