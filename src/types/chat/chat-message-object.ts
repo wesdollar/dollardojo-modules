@@ -4,5 +4,5 @@ export interface ChatMessageObject {
   message: string;
   mod: boolean;
   subscriber: boolean;
-  chatCommands: string[];
+  chatCommand: string;
 }

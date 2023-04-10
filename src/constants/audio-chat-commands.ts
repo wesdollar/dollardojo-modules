@@ -1,1 +1,1 @@
-export const audioChatCommands = ["applause"];
+export const audioChatCommands = ["applause", "badum-tss"];
