@@ -7,4 +7,5 @@ export const audioChatCommands = [
   "killingme",
   "quicker",
   "wtf",
+  "itworks",
 ];
